@@ -1,8 +1,21 @@
-# React + Vite
+# [AI Video Editor Landing Page](https://xora-ai-video-editor-project.netlify.app/)  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A landing page designed to showcase the AI Video Editor project, focusing on simplicity and efficiency. The page highlights the tool's features and benefits, aiming to attract users interested in AI-powered video editing.**
 
-Currently, two official plugins are available:
+![Application Screenshot](/xora-ai-video-editor.png "Application Screenshot")  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used  
+
+- **Frontend**:  
+  - [Vite](https://vite.dev/) - A fast and modern build tool and development server designed to optimize frontend workflows.  
+
+- **Programming Language**:  
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - A versatile programming language widely used for creating interactive and dynamic web applications.  
+
+- **Styling**:  
+  - [TailwindCSS](https://tailwindcss.com/) - Utility-first CSS framework for fast and efficient styling.  
+
+## 📦 NPM Packages  
+
+- [react-slidedown](https://www.npmjs.com/package/react-slidedown) - A React component for creating smooth slide-down transitions.  
+- [react-countup](https://www.npmjs.com/package/react-countup) - A lightweight library for animating numerical values with ease.
